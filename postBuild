@@ -1,3 +1,3 @@
-git clone https://github.com/LuisKolb/sideline.git
+git clone -b binder-user-behaviour https://github.com/LuisKolb/sideline.git
 jupyter nbextension install sideline --user
 jupyter nbextension enable sideline/main --user
